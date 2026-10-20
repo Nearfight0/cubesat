@@ -1,0 +1,10 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <!-- Stylesheet -->
+        <file>dark_theme.qss</file>
+        <file>azst.png</file>
+        <file>logo.png</file>
+        <file>final_logo.png</file>
+    </qresource>
+</RCC>

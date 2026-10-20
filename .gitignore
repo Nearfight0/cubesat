@@ -1,0 +1,30 @@
+# Build output
+build/
+build-*/
+out/
+*.exe
+*.dll
+*.obj
+*.o
+
+# CMake / IDE
+CMakeUserPresets.json
+CMakeLists.txt.user
+.vscode/
+.vs/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Runtime output from the ground station
+/ground-station/**/*.csv
+CubeSat_SNAP_*.png
+CubeSat_REC_*.mp4
+
+# OS
+.DS_Store
+Thumbs.db
